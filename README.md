@@ -30,7 +30,7 @@ The Student Assignment Alerting and Management System (SAAMS) is a web applicati
 
 1.⁠ ⁠*Clone the Repository*
    ⁠ bash
-   git clone https://github.com/yourusername/saams.git
+   git clone https://github.com/Ajitha-6/saams.git
    cd saams
     ⁠
 
