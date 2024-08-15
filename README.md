@@ -28,10 +28,7 @@ The Student Assignment Alerting and Management System (SAAMS) is a web applicati
 
 ### Steps
 
-1.⁠ ⁠*Clone the Repository*
-   ⁠ bash
-   git clone https://github.com/Ajitha-6/student assigement application management system.git
-   cd saams
+1.⁠ ⁠*Clone the Repository* bash git clone
     ⁠
 
 2.⁠ ⁠*Create and Activate a Virtual Environment*
