@@ -1,5 +1,8 @@
 # Student-assigement-application-management-system
 
+![image](https://github.com/user-attachments/assets/1bcdc708-dcfc-4bc7-bf90-0346f6327e98)
+
+
 ## Project Overview
 
 The Student Assignment Alerting and Management System (SAAMS) is a web application designed to help students and staff manage assignments efficiently. The system alerts students to submit assignments on or before the due date and assists staff in managing and tracking student assignments effectively.
